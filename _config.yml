@@ -1,0 +1,81 @@
+---
+booktitle: Proceedings of The 11th International Conference on Probabilistic Graphical
+  Models
+shortname: PGM
+volume: '186'
+year: '2022'
+start: 2022-10-05
+end: 2022-10-07
+published: 2022-09-19
+conference_number: '11'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: PGM-2022
+month: 0
+cycles: false
+bibtex_editor: Salmer\'on, Antonio and Rum\'{\i}, Rafael
+editor:
+- given: Antonio
+  family: Salmerón
+- given: Rafael
+  family: Rumı́
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 11th International Conference on Probabilistic Graphical Models
+    Held in Almer\'{\i}a, Spain on 05-07 October 2022
+
+  Published as Volume 186 by the Proceedings of Machine Learning Research on 19 September 2022.
+
+  Volume Edited by:
+    Antonio Salmerón
+    Rafael Rumı́
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 05--07 Oct
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v186"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v186
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v186
+email: ''
+conference:
+  name: International Conference on Probabilistic Graphical Models
+  url: http://www2.ual.es/pgm2022/
+  location: Almerı́a, Spain
+  dates:
+  - 2022-10-05
+  - 2022-10-06
+  - 2022-10-07
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/home/markus/repos/mlresearch/v186/pgm22.bib"
+# Site settings
+# Original source:  /home/markus/repos/mlresearch/v186/pgm22.bib
